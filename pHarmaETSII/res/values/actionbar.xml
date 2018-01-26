@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cajon">
+        <item>Agregar nuevo medicamento</item>
+        <item>Ver base de datos</item>
+        <item>Buscar</item>
+        <item>Como usar la aplicación</item>
+        <item>Salir</item>
+    </string-array>
+
+    <string name="drawer_open">Cajon abierto</string>
+    <string name="drawer_close">Cajon cerrado</string>
+
+</resources>
